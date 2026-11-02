@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rushikesh Shelhalkar 👋
 
-<!--
-**rishikesh5678/rishikesh5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 Aspiring Python Developer | Web Development Enthusiast
 
-Here are some ideas to get you started:
+I'm interested in building practical web applications and
+improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- Languages: Python, Java, C, C++
+- Web: HTML, CSS, JavaScript, Flask
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub
+
+### 🚀 Featured Projects
+- Online Submission System – College submission management platform.
+- CivicSense – Civic issue reporting and monitoring platform.
+- Online Resume Maker – A web application for creating resumes.
+
+### 🏆 Achievements
+- SIH 2026 – Internal Hackathon Winner
+- Stellar Hackathon 2026 – Participant
+
+### 📚 Currently Learning
+- Python Full Stack Development
+- Backend Development
+- Database Management
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rishikesh-shelhalkar-710244267/
+- Email: rishikeshshelhalkar@gmail.com
